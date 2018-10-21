@@ -18,6 +18,10 @@ a {
   text-decoration: none;
 }
 
+.airtable {
+  margin-bottom: 100px;
+}
+
 .title-text:hover {
   transition: transform 0.15s;
   transform: scale(1.05);
