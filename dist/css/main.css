@@ -28,6 +28,9 @@ a {
   transform: scale(1.05);
 }
 
+.title2 {
+  margin-top: 250px;
+}
 
 .logo {
   display: inline-block;
