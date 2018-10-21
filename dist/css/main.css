@@ -1,3 +1,49 @@
 .button-primary {
   background: #ffcc00;
 }
+
+.custom-button {
+  margin-right: 20px;
+  padding-left: 60px;
+  padding-right: 60px;
+  text-transform: capitalize !important;
+  font-weight: bold !important;
+}
+
+a {
+  text-decoration: none;
+}
+
+.title-text:hover {
+  transition: transform 0.15s;
+  transform: scale(1.05);
+}
+
+.navbar-item {
+  margin-right: 20px;
+}
+
+.navbar-item:hover {
+  transition: transform 0.15s;
+  transform: scale(1.05);
+}
+
+
+.logo {
+  display: inline-block;
+  float: left;
+}
+.navbar {
+  display: inline-block;
+  float: right;
+  z-index: 100000000;
+  position: absolute;
+  right: 10%;
+}
+
+@media screen and (max-width: 515px) {
+  .custom-button {
+    display: block;
+    margin: 20px 50px;
+  }
+}
