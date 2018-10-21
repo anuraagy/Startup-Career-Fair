@@ -10,6 +10,10 @@
   font-weight: bold !important;
 }
 
+td {
+  text-align: left;
+}
+
 a {
   text-decoration: none;
 }
@@ -30,6 +34,10 @@ a {
 
 .title2 {
   margin-top: 250px;
+}
+
+.features:before {
+  position: initial;
 }
 
 .logo {
