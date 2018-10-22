@@ -11,11 +11,9 @@
 }
 
 #students {
-  scroll-behavior: smooth;
 }
 
 #companies {
-  scroll-behavior: smooth;
 }
 
 td {
@@ -37,7 +35,6 @@ a {
 
 .navbar-item {
   margin-right: 20px;
-  scroll-behavior: smooth;
 }
 
 .navbar-item:hover {
