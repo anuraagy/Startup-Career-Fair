@@ -10,6 +10,14 @@
   font-weight: bold !important;
 }
 
+#students {
+  scroll-behavior: smooth;
+}
+
+#companies {
+  scroll-behavior: smooth;
+}
+
 td {
   text-align: left;
 }
@@ -29,6 +37,7 @@ a {
 
 .navbar-item {
   margin-right: 20px;
+  scroll-behavior: smooth;
 }
 
 .navbar-item:hover {
