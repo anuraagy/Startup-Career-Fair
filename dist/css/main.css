@@ -62,6 +62,24 @@ a {
   right: 10%;
 }
 
+#companies-attending {
+  margin-left: -5%;
+  margin-right: -5%;
+  margin-bottom: -5%;
+}
+
+.logo-image {
+  width: 22%;
+  display: inline-block;
+  margin: 5%;
+  cursor: pointer;
+}
+
+.logo-image:hover {
+  transform: scale(1.1);
+  transition: 0.3s;
+}
+
 @media screen and (max-width: 515px) {
   .custom-button {
     display: block;
