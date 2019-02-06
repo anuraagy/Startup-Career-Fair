@@ -8,6 +8,7 @@ companies = [
   { logo: "doublemap", url: "https://www.doublemap.com" },
   { logo: "givelify", url: "https://www.givelify.com" },
   { logo: "halo", url: "https://haloinvesting.com"},
+  { logo: "inari", url: "http://inari.com/" },
   { logo: "look", url: "https://look.education" },
   { logo: "onecause", url: "https://www.onecause.com" },
   { logo: "panopta", url: "https://www.panopta.com/" }, 
