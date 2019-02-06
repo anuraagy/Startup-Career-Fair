@@ -9,6 +9,7 @@ companies = [
   { logo: "givelify", url: "https://www.givelify.com" },
   { logo: "halo", url: "https://haloinvesting.com"},
   { logo: "inari", url: "http://inari.com/" },
+  { logo: "ifi", url: "https://opp.purdue.edu/programs/Interns_for_Indiana.html" },
   { logo: "look", url: "https://look.education" },
   { logo: "onecause", url: "https://www.onecause.com" },
   { logo: "panopta", url: "https://www.panopta.com/" }, 
