@@ -14,7 +14,7 @@ companies = [
   { logo: "pq", url: "http://pqtalent.com" },
   { logo: "monument_logo", url: "https://getmonument.com/" },
   { logo: "sarsonfunds", url: "https://www.sarsonfunds.com" }, 
-  { logo: "skillzilla", url: "www.skillzilla.io" },
+  { logo: "skillzilla", url: "https://www.skillzilla.io" },
   { logo: "swift", url: "https://www.swiftfuels.com" },
   { logo: "thiemewagner", url: "https://www.thiemeandwagner.com" },
   { logo: "rogo", url: "https://rogoag.com" },
