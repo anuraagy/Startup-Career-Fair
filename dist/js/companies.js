@@ -8,7 +8,7 @@ companies = [
   { logo: "healthcall", url: "https://www.healthcall.com" },
   { logo: "indigo", url: "https://www.indigobio.com" },
   { logo: "journera", url: "https://journera.com/" },
-  { logo: "laegacy", url: "https://https://laegacy.com/" },
+  { logo: "laegacy", url: "https://laegacy.com/" },
   { logo: "nextrow", url: "https://nextrow.com" },
   { logo: "planeenglish", url: "https://PlaneEnglishSIM.com" },
   { logo: "pq", url: "http://pqtalent.com" },
