@@ -18,6 +18,8 @@ companies = [
   { logo: "swift", url: "https://www.swiftfuels.com" },
   { logo: "thiemewagner", url: "https://www.thiemeandwagner.com" },
   { logo: "rogo", url: "https://rogoag.com" },
+  { logo: "sherish", url: "https://sherish.com" },
+  { logo: "mesh", url: "https://mesh-systems.com/" },
 ]
 
 
